@@ -45,4 +45,4 @@ Started from the registry's current n = 268 packing (Evan Daniel (found_by), aft
 
 The search was AI-assisted throughout (an AI agent wrote and ran the search and the checks); the checks above were run by code that did not produce the packing. Doğa directed the work.
 
-The best public Kaggle per-puzzle side we found for 268 is 16.874361715873 (ntumlnoob), above ours.
+The best public Kaggle per-puzzle side we found for 268 is 16.874361715873 (ntumlnoob), above ours. The Kaggle per-puzzle leaderboard also lists an unpublished side-only entry for 268, 16.8718681351 (team Cats and boxes 😼, 2026-10-28), smaller than ours; it states no packing, we cannot verify it and make no claim about it. This is the best published packing with a certificate, not the smallest side anyone has scored.
